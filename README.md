@@ -1,5 +1,7 @@
 ## Hi there! :smiley:
 
+I am a Software Developer who recently graduated from Makers Academy. To learn more about me, please check my [CV](https://github.com/margmartelo/CV).
+
 <!--
 **margmartelo/margmartelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
